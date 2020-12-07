@@ -76,6 +76,8 @@ label:hover{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 40px;
+  cursor: pointer;
+
 }
 .img-wrap{
   overflow: hidden;
@@ -92,6 +94,7 @@ label:hover{
   position: absolute;
   top: 0;
   left: 0;
+  cursor: pointer;
 }
 
 /* modal styles */
